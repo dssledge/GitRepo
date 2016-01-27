@@ -1,3 +1,4 @@
+--Replaces the REGS1400.shl process
 --Updates the Banner form SFAESTS with the refund values for a given ESTS code for a given Term 
 --The values for each update is based on a previous semester
 --Essentially amounts to a copy from one semester to a new semester but aligns the dates to the semester
